@@ -13,6 +13,6 @@
     "build:css": "npm-run-all compile:sass concat:css prefix:css compress:css"
   },
   "keywords": [],
-  "author": "",
+  "author": "Samer",
   "license": "ISC"
 }
